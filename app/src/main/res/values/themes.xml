@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Tema.ComidaVeracruzana" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange_browm</item>
+        <item name="colorOnPrimary">@color/gray</item>
+    </style>>
 </resources>
