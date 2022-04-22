@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Tema.ComidaVeracruzana">
         <activity
+            android:name=".ActivityPantallaA"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
