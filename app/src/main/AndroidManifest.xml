@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Tema.ComidaVeracruzana">
         <activity
+            android:name=".ActivityInicio"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityPantallaC"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityBuscar"
+            android:exported="false" />
+        <activity
             android:name=".ActivityPantallaA"
             android:exported="false" />
         <activity
